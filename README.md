@@ -11,3 +11,5 @@ When you put an LLM into production, you face a tradeoff between safety, latency
 
 
 <img width="2166" height="1846" alt="image" src="https://github.com/user-attachments/assets/5e8fc951-4ab1-41b5-ab2f-e1d1b50478df" />
+
+![Phase](./docs/diagram.png)
